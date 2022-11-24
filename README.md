@@ -1,5 +1,5 @@
 # Webdev-II exercise: A Simple deep learning REST API (Flask)
-  A simple Image classifier using pretrained Neural Network [ResNet50](https://keras.io/applications/#resnet50). More details about the model [here](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html).
+  A simple image classifier using pretrained Neural Network [ResNet50](https://keras.io/applications/#resnet50). More details about the model [here](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html).
 
 ## Credits
 [Building a simple Keras + deep learning REST API](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html)
