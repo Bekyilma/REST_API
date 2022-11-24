@@ -12,7 +12,7 @@ Create a virtual environment
 ~$ conda create --name yourenvname python=3.9
 ```
 ```sh
-~$ conda activate mlapp
+~$ conda activate yourenvname
 ```
 
 Install requirements
